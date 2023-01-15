@@ -1,4 +1,4 @@
-### Fencing Kits! : A solution to a really overpriced fence building cost! 
+## Fencing Kits! : A solution to a really overpriced fence building cost! 
 
 
 Tired of permanently staining your world by disassembling every appliance in a 5 mile radius, just to build two fences? <br>
@@ -7,7 +7,7 @@ Would you like to avoid using unappealing wooden walls?
 
 **Well here's a answer for two of those questions, Fencing Kits!**
 
-#### Items
+### Items
 Unbundling One Fence Kit gives:
 
 * 12 Metal Pipes
@@ -18,25 +18,32 @@ __*Propane Torches, Welding Masks, The Metalwork Magazine Vol. 3, and Scrap Meta
 
 It is possible to re-bundle fencing kits after un-bundling them!
 
-#### How To Use
+### How To Use
 Just right click the fencing kit to unbundle it.
 You can unroll the chain roll to get wire, or mangle it with a saw and hammer to get some scrap metal.
 You can then construct them via the metalworking context tab (Right Click, view requirements above).
 
-#### Spawns
+### Spawns
 Around three to five fencing kits can spawn in a large warehouse.
 Farming crates, garages, and tool store containers also spawn fencing kits (Although rare).
 
-#### Durability Specifics
+### Durability Specifics
 The big wired fence, and the big pole fence, both have 700hp, regardless of metalworking skill.
 With the Handy trait, it is bumped up to 800hp.
 For comparison, a Log wall with level 10 carpentry has 900hp, or 1000hp with Handy.
 
-#### Compatible with existing saves!
+### Compatible with existing saves!
 in order to get new loot in existing saves, you will need to loot new regions.
 
 
 *(If there are any issues please open a issue report or comment them on [steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2812828771))*
+
+
+### Contributers 
+
+[balergus](https://steamcommunity.com/profiles/76561198046694819/)
+
+[east](https://steamcommunity.com/profiles/76561198867427025/)
 
 
 >Please do not re-upload the mod or use any assets without [explicit permission.](http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478)
