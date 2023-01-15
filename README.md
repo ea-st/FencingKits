@@ -32,11 +32,11 @@ The big wired fence, and the big pole fence, both have 700hp, regardless of meta
 With the Handy trait, it is bumped up to 800hp.
 For comparison, a Log wall with level 10 carpentry has 900hp, or 1000hp with Handy.
 
-#### Compatible with existing saves![
+#### Compatible with existing saves!
 in order to get new loot in existing saves, you will need to loot new regions.
 
 
-
+*(If there are any issues please open a issue report or comment them on [steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2812828771))*
 
 
 >Please do not re-upload the mod or use any assets without [explicit permission.](http://theindiestone.com/forums/index.php/topic/2530-mod-permissions/?p=36478)
